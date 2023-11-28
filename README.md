@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Emre and I'm a software developer</h1>
+<h1 align="left">Hi ! 👋 My name is Emre and I'm a software developer</h1>
 
 ###
 
@@ -57,5 +57,6 @@
 <div align="center">
   <img height="130" src="https://media4.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif?cid=ecf05e47qz42xthxum7m5349ps231mr5ml67nz7tt65mxskk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
+
 
 
