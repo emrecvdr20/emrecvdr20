@@ -1,4 +1,4 @@
-e<p align="left">Hi ! My name is Emre and I'm software developer.</p>
+<p align="left">Hi ! My name is Emre and I'm software developer.</p>
 
 ###
 
