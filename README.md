@@ -1,4 +1,4 @@
-<p align="left">Hi ! My name is Emre and I'm software developer.</p>
+e<p align="left">Hi ! My name is Emre and I'm software developer.</p>
 
 ###
 
@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/bnur6142/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/emrecvdr20/count.svg?"  />
 </div>
 
 ###
