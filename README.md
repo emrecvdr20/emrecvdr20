@@ -1,8 +1,8 @@
-<p align="left">Hi ! My name is Emre and I'm software developer.</p>
+<h1 align="left">Hi 👋! My name is Beyza Nur and I'm a Frontend Developer</h1>
 
 ###
 
-<p align="left">My Skills :</p>
+<h2 align="left">💻 My Skills</h2>
 
 ###
 
